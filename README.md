@@ -1,6 +1,3 @@
-[python] Here is the `README.md` file as requested:
-
-```markdown
 # Smart AI Assistant
 
 A comprehensive smart assistant built with Python, integrating speech recognition, text-to-speech, object detection, and various utility functions. This assistant can interact through voice or text modes, perform system tasks, fetch real-time weather, news, and more, making it a versatile tool for daily use.
