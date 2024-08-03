@@ -31,7 +31,7 @@ smart_assistant/
 
     ```bash
     git clone https://github.com/Daniyal0100101/Sage-Smart-AI-Assistant.git
-    cd AI Assistant
+    cd smart_assistant
     ```
 
 2. **Set Up a Virtual Environment**
