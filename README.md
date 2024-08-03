@@ -89,33 +89,7 @@ For any inquiries, please contact:
 - [GitHub Profile](https://github.com/Daniyal0100101)
 ```
 
-### `requirements.txt`
-
-```plaintext
-opencv-python
-pyttsx3
-SpeechRecognition
-pyautogui
-torch
-socket
-webbrowser
-datetime
-feedparser
-requests
-contextlib
-io
-pyjokes
-googlesearch-python
-wikipedia
-psutil
-schedule
-ctypes
-random
-re
-spacy
-```
-
-### File Paths and Sample Code
+### This is the main file
 
 #### `main.py`
 ```python
