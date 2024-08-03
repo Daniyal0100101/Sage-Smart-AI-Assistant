@@ -16,8 +16,8 @@ A comprehensive smart assistant built with Python, integrating speech recognitio
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/smart_assistant.git
-    cd smart_assistant
+    git clone https://github.com/Daniyal0100101/Sage-Smart-AI-Assistant.git
+    cd AI Assistant
     ```
 
 2. **Set Up a Virtual Environment**
