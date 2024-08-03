@@ -12,5 +12,5 @@ def load_model_silently(model_path):
             print(f"Error loading YOLOv5 model: {e}")
             return None
 
-model_path = 'C:/Users/hp/Program & Projact/Hands-on Projects/AI Projacts/Requirements/yolov5s.pt'
+model_path = ' Explain_Add_pyolov5s.pt_path'
 model = load_model_silently(model_path)
