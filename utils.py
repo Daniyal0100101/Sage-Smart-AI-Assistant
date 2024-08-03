@@ -266,7 +266,7 @@ def get_news():
 def get_weather(city):
     """Fetch real-time weather data for a specified city."""
     try:
-        api_key_path = "C:/Users/hp/Program & Projact/Hands-on Projects/AI Projacts/Requirements/weather api key.txt"
+        api_key_path = Explain_API_Key_Path_Add_Your_own"
         if not os.path.isfile(api_key_path):
             return "The file containing the API key could not be found."
 
