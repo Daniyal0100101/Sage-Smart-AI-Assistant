@@ -3,7 +3,7 @@ import os
 
 def install_from_requirements():
     """Install packages from requirements.txt."""
-    requirements_path = 'C:/Users/hp/Program & Projact/Python AI Projacts/AI Assistant/requirements.txt'
+    requirements_path = 'requirements.txt'
 
     if os.path.exists(requirements_path):
         print(f"Installing packages from {requirements_path}...")
