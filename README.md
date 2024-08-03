@@ -1,4 +1,6 @@
+[python] Here is the `README.md` file as requested:
 
+```markdown
 # Smart AI Assistant
 
 A comprehensive smart assistant built with Python, integrating speech recognition, text-to-speech, object detection, and various utility functions. This assistant can interact through voice or text modes, perform system tasks, fetch real-time weather, news, and more, making it a versatile tool for daily use.
@@ -12,7 +14,7 @@ A comprehensive smart assistant built with Python, integrating speech recognitio
 - **Real-time Data**: Fetches current weather, news, and Wikipedia summaries.
 - **Utility Functions**: Includes features like flipping a coin, rolling a die, telling jokes, and more.
 
-## Project Structure
+## Remember to structure this project, following Structure
 ```plaintext
 smart_assistant/
 |-- main.py
@@ -32,7 +34,7 @@ smart_assistant/
 
     ```bash
     git clone https://github.com/Daniyal0100101/Sage-Smart-AI-Assistant.git
-    cd Sage-Smart-AI-Assistant
+    cd AI Assistant
     ```
 
 2. **Set Up a Virtual Environment**
@@ -85,6 +87,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, please contact:
 
-- [Daniyal](mailto:your.email@dasif1477@gmail.com)
+- [Daniyal](mailto:dasif1477@gmail.com)
 - [GitHub Profile](https://github.com/Daniyal0100101)
-```
