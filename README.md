@@ -11,7 +11,7 @@ A comprehensive smart assistant built with Python, integrating speech recognitio
 - **Real-time Data**: Fetches current weather, news, and Wikipedia summaries.
 - **Utility Functions**: Includes features like flipping a coin, rolling a die, telling jokes, and more.
 
-## Project Structure:
+## Project Structure
 ```plaintext
 smart_assistant/
 |-- main.py
