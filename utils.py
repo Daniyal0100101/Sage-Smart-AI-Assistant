@@ -403,7 +403,7 @@ def get_response(request):
     print('Thinking...\n')
     try:
         response = ollama.generate(
-            model="sage-assistant",
+            model="Replace-with-actual-model-name",
             prompt=request
         )
         return response['response']
